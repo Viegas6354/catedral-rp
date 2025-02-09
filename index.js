@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["SSP - Centro Paulista","SSP - Centro Paulista"];
+const statusMessages = ["Catedral Paulista Network © Brasil","Catedral Paulista Network © Brasil"];
 
 
 let currentIndex = 0;
